@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joicepaim
 -  Aspirante a full stack developer :)  
--  Atualmente aprendendo go lang e flutter 
+-  Atualmente aprendendo nesjs
 
 
 
