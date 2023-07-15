@@ -6,6 +6,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
 
+
+</br></br>
 <div align="center">
 <a href="https://github.com/joicepaim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicepaim&layout=compact&langs_count=7&theme=dracula"/>
